@@ -14,7 +14,7 @@ export default function Layout({ children }) {
       <main className="container mx-auto flex-1">{children}</main>
       <footer className="bg-gray-600 mt-8 py-4">
         <div className="container mx-auto flex justify-center">
-          &copy; 2022 Eozef
+          &copy; 2022-2023 Eozef
         </div>
       </footer>
     </div>
